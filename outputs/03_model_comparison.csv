@@ -1,8 +1,8 @@
 Model,Accuracy,Precision,Recall,F1-score,CV F1 (mean),CV F1 (std),Random-split F1
-Linear SVM,0.806,0.872,0.806,0.807,0.804,0.09,1.0
-Linear SVM (tuned),0.801,0.87,0.801,0.802,0.8,0.104,1.0
-Logistic Regression (tuned),0.699,0.741,0.699,0.706,0.77,0.088,1.0
-Logistic Regression,0.755,0.851,0.755,0.749,0.748,0.058,1.0
-Multinomial Naive Bayes,0.745,0.826,0.745,0.731,0.73,0.059,1.0
-Naive Bayes (tuned),0.684,0.712,0.684,0.678,0.723,0.102,1.0
+Linear SVM,0.806,0.872,0.806,0.807,0.804,0.09,1
+Linear SVM (tuned),0.801,0.87,0.801,0.802,0.8,0.104,1
+Logistic Regression (tuned),0.699,0.741,0.699,0.706,0.77,0.088,1
+Logistic Regression,0.755,0.851,0.755,0.749,0.748,0.058,1
+Multinomial Naive Bayes,0.745,0.826,0.745,0.731,0.73,0.059,1
+Naive Bayes (tuned),0.684,0.712,0.684,0.678,0.723,0.102,1
 Majority baseline,0.378,0.143,0.378,0.207,0.229,0.013,0.229
