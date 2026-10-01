@@ -1,0 +1,11 @@
+template,label,n,error_rate,mostly_predicted
+Absolutely love this PRODUCT! Works perfectly and arrived early.,positive,24,1.0,neutral
+"Got the PRODUCT yesterday, still testing it out.",neutral,18,1.0,positive
+Late delivery and the PRODUCT was defective on arrival.,negative,18,1.0,positive
+"The PRODUCT works fine, packaging could be improved.",neutral,15,1.0,positive
+"Thinking about buying a PRODUCT, any recommendations?",neutral,24,1.0,negative
+"This PRODUCT is a total game changer, five stars!",positive,20,1.0,negative
+"It's a decent PRODUCT for the price, no major complaints.",neutral,16,1.0,positive
+"Neutral experience overall with this PRODUCT, meets basic needs.",neutral,17,1.0,negative
+"@USER my PRODUCT arrived broken, this is unacceptable",negative,35,0.86,neutral
+Comparing a few PRODUCT options before I decide,neutral,22,0.27,neutral
